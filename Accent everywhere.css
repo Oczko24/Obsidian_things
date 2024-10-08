@@ -1,0 +1,8 @@
+.theme-dark {
+--text-muted: var(--color-accent);
+}
+.theme-light {
+--text-muted: var(--color-accent);
+}
+
+
