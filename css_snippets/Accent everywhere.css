@@ -11,3 +11,6 @@
 .workspace-tab-header-inner .workspace-tab-header-inner-icon {
     color: var(--color-accent);
 }
+.markdown-rendered hr {
+    border-color: var(--color-accent);
+}
