@@ -1,0 +1,6 @@
+.cm-html-embed td, .markdown-rendered td, .cm-html-embed th, .markdown-rendered th {
+    border: var(--table-border-width) solid transparent;
+}
+.cm-html-embed thead tr > th, .markdown-rendered thead tr > th {
+    border-color: transparent;
+}
