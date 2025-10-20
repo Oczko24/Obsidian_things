@@ -1,5 +1,5 @@
 # Obsidian_things
 a repository of all my tweaks to obsidian
 
-- **accent everywhere** makes accent in every line or so
-- **transparent tables** makes tables tranaparent 
+- **Accent everywhere** makes accent in every line or so
+- **Transparent tables** makes tables tranaparent 
