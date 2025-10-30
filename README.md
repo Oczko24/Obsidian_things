@@ -11,4 +11,4 @@ You can find them all in [snippets](https://github.com/Oczko24/Obsidian_things/t
 
 ### Themes 
 
-[Transparent](https://github.com/Oczko24/Obsidian-transparent)
+[Transparent](https://github.com/Oczko24/Obsidian-transparent) - This theme is designed to be **light**, **simple**, **aesthetic**, and **minimalistic**. It provides a clean and unobtrusive user interface that allows you to focus on your notes without distraction, with **excellent mobile support**
