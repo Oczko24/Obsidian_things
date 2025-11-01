@@ -6,8 +6,8 @@ a repository of all my tweaks to obsidian
 
 You can find them all in [snippets](https://github.com/Oczko24/Obsidian_things/tree/main/css_snippets) folder
 
-- **Accent everywhere** makes accent in every line or so
-- **Transparent tables** makes tables tranaparent 
+- **Accent everywhere** - makes accent in every line or so
+- **Transparent tables** - makes tables tranaparent 
 - **Canvas dots** - removes visibility of background dots in canvas
 
 ### Themes 
